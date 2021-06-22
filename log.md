@@ -11,7 +11,7 @@
 
 
 
-### Day 1: 06,22,2021 
+### Day 2: 06,22,2021 
 
 **Today's Progress**: Working with HTML Tags
 
